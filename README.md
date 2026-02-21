@@ -10,7 +10,9 @@ O objetivo principal deste desafio foi simular a arquitetura de dados de uma pla
 
 #### 1. Rascunho Inicial (Conceptual)
 O modelo começou com a identificação das entidades básicas: Usuário, Filme e Série.
-![Rascunho Inicial](https://arrows.app/#/local/id=4ewv9rxbRwwswTn2LMwH))
+[Clique aqui para acessar o Rascunho do Projeto]([https://neo4j.com/](https://arrows.app/#/local/id=4ewv9rxbRwwswTn2LMwH))
+
+[Clique aqui para acessar o Neo4j](https://neo4j.com/)
 
 ### 🛠️ Modelo Otimizado para Neo4j (Cypher)
 
