@@ -10,11 +10,7 @@ O objetivo principal deste desafio foi simular a arquitetura de dados de uma pla
 
 #### 1. Rascunho Inicial (Conceptual)
 O modelo começou com a identificação das entidades básicas: Usuário, Filme e Série.
-![Rascunho Inicial](./image_86d90a.png)
-
-#### 2. Expansão de Relacionamentos
-Adição de complexidade como dispositivos, playlists e a hierarquia de temporadas.
-![Expansão](./image_86e4ea.png)
+![Rascunho Inicial](https://arrows.app/#/local/id=4ewv9rxbRwwswTn2LMwH))
 
 ### 🛠️ Modelo Otimizado para Neo4j (Cypher)
 
